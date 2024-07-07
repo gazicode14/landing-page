@@ -1,0 +1,170 @@
+#box1{
+    height: 250px;
+    width: 100%; 
+    background-color: rgb(46, 47, 51);
+
+    
+
+}
+#box2{
+    height: 150px;
+    width: 500px;
+    background-color: rgb(117, 118, 121);
+    position: absolute;
+    left: 1000px;
+    top: 80px;
+    border-radius: 0.5%;
+}
+#inside{
+    height: 50%;
+    width: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    
+
+}
+#Header{
+    position: absolute;
+    left: 250px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#h1{
+    position: absolute;
+    left: 1000px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#h2{
+    position: absolute;
+    left: 1100px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#h3{
+    position: absolute;
+    left: 1200px;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#textBox{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(46, 47, 51);
+    position: absolute;
+    left: 250px;
+    top: 40px;
+}
+#text{
+    bottom: 10px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+}
+#Signup{
+    height: 40px;
+    width: 100px;
+    color: aliceblue;
+    background-color: rgb(105, 159, 230);
+    position: absolute;
+    top: 215px;
+    left: 250px;
+    border-radius: 10%;
+    font-size:large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#SomeText{
+    color: rgb(14, 18, 22);
+    font-size:xx-large;
+    position: absolute;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    left: 550px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-left: 100px;
+    border: 10px rgb(236, 152, 211);
+}
+.Box1{
+    height: 150px;
+    width: 150px;
+    border: 4px solid cornflowerblue;
+    border-radius: 15px;
+    background-color:rgb(227, 240, 240);
+    
+}
+.textcontainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
+
+.tx{
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+    background-color:rgb(255, 255, 255);
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+    
+}
+.middle{
+    display: flex;
+    background-color:rgb(197, 185, 185);
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.qoute{
+    height: 250px;
+    width: 700px;
+    
+    color: black;
+    text-align:center;
+    font-size: xx-large;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 30px;
+}
+.last{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.lastbox{
+    height: 150px;
+    width: 1000px;
+    background-color: rgb(103, 158, 221);
+    border-radius: 12px;
+}
+.sup{
+    height: 40px;
+    width: 100px;
+    color: white;
+    border:2px solid white;
+    border-radius: 12px;
+    text-align: center;
+    margin-top:90px;
+    margin-left: 800px;
+    font-size: large;
+}
+.footer{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    margin-top:50px;
+}
+.ft{
+    display: flex;
+    color:white;
+    position: absolute;
+    text-align: center;
+    margin-top:15px;
+    margin-left: 45%;
+    
+}
